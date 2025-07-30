@@ -17,12 +17,11 @@
 ## 📹 Demo
 
 Watch the app in action:  
-https://github.com/user-attachments/assets/f29916fe-feb1-4974-a31a-9dd4945f8135
+
+https://github.com/user-attachments/assets/db5f2254-26ec-41fe-a4bd-9dfecb4802aa
 
 
-
-
-> 📌 *Channel names shown in the video are blurred to respect content ownership. This is a static design project only.*
+> 📌 *Channel names are blurred to respect content ownership. This is a static demo project.*
 
 ---
 
